@@ -216,6 +216,3 @@ GitHub: [https://github.com/manisha-bhadani-02/vote_polling](https://github.com/
 Add your preferred license here (MIT recommended).
 
 ---
-
-*Created with ❤️ — ready for iteration. If you want, I can also generate a `README.md` file for direct download or convert this to a GitHub-friendly markdown file with badges and images.*
-
